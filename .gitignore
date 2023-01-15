@@ -1,0 +1,23 @@
+.idea/
+.local
+.svn
+.vsc
+**.pyc
+*.log
+logs
+odoo-server.conf
+.DS_Store
+venv
+backup
+html
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*~
+# Distribution / packaging
+develop-eggs/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
