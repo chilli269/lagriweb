@@ -6,6 +6,7 @@
     'depends': [
     ],
     'data': [
+        'data/multi.xml'
     ],
     'installable': True,
     'application': True,
